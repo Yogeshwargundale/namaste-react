@@ -1,1 +1,3 @@
 # namaste-react
+
+# Notes
